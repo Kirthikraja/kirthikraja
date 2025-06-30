@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I’m Kirthik Raja
 
-<!--
-**Kirthikraja/kirthikraja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Data Science | 🎯 Interested in AI, Graph Mining, Finance
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthik-raja&show_icons=true&theme=tokyonight)
+
+## 🚀 Featured Projects
+- [🏗 Minecraft Terrain-Aware House Generator](https://github.com/kirthik-raja/minecraft-house)
+- [🤖 FlappyBird RL Agents](https://github.com/kirthik-raja/flappybird-rl)
+- [📈 Options Trading Notebook](https://github.com/kirthik-raja/options-strategy)
+
+## 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirthik-raja)
