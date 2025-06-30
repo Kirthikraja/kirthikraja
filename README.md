@@ -84,7 +84,7 @@ Master's in Data Science | AI/ML | Software Engineer | Graph Mining Enthusiast
   </a>
 </p>
 
-> 📎 [Download Resume (PDF)](https://github.com/Kirthikraja/Kirthikraja/blob/main/Resume_Leiden.pdf)
+> 📎 [Download Resume (PDF)](https://github.com/Kirthikraja/Kirthikraja/blob/main/Leiden_Resume.pdf)
 
 ---
 
