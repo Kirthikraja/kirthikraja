@@ -11,9 +11,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthik-raja&show_icons=true&theme=tokyonight)
 
 ## 🚀 Featured Projects
-- [🏗 Minecraft Terrain-Aware House Generator](https://github.com/kirthik-raja/minecraft-house)
-- [🤖 FlappyBird RL Agents](https://github.com/kirthik-raja/flappybird-rl)
-- [📈 Options Trading Notebook](https://github.com/kirthik-raja/options-strategy)
+- [🏗 Minecraft Terrain-Aware House Generator](https://github.com/Kirthikraja/Minecraft-Terrain-adaptive-house-generator)
+- [🤖 FlappyBird RL Agents](https://github.com/Kirthikraja/Flappy-Bird-RL)
+- [📈CartPole-DeepRL](https://github.com/Kirthikraja/CartPole-DeepRL)
+- [Pacman-using-RL](https://github.com/Kirthikraja/Pacman-using-RL)
 
 ## 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kirthik-raja)
