@@ -12,7 +12,7 @@
 <h1 align="center">Hi, I'm Kirthik Raja! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
 
 <p align="center"><b>
-Master's in Data Science | AI/ML | Software Engineer | Graph Mining Enthusiast
+Master's in Data Science | AI/ML | Software Engineer
 </b></p>
 
 ---
