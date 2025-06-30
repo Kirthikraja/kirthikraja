@@ -41,8 +41,8 @@ Master's in Data Science | AI/ML | Software Engineer | Graph Mining Enthusiast
 
 ### 💼 Work Experience Snapshot
 
-**Software Engineer – Honeywell, Bengaluru**  
-`Aug 2022 – Present`
+**Intern & Software Engineer  – Honeywell, Bengaluru**  
+`Jan 2022 – August 2025`
 
 - Developed Spring Boot microservices and real-time dashboards with React.
 - Integrated telemetry systems with Apache Kafka and Spark for streaming.
