@@ -1,7 +1,8 @@
-<!-- Banner Image (Plain Abstract Tech Theme) -->
+<!-- Banner Image (Minimal Tech/Data Theme) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?auto=format&fit=crop&w=1200&q=80" alt="Plain Tech Banner" width="70%" />
+  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?auto=format&fit=crop&w=1200&q=80" alt="Data Banner" width="70%" />
 </p>
+
 
 
 
