@@ -98,8 +98,9 @@ Master's in Data Science | AI/ML | Software Engineer | Graph Mining Enthusiast
 
 ### 🎯 Fun Fact
 
-- I once deployed a dashboard used in 20+ oil refineries across 2 continents 🚢  
-- Graph mining and procedural generation are my weekend hobbies 🌐🏡
+- ⚽ Lifelong **FC Barcelona** fan – *Visca el Barça!*  
+- 📚 Avid reader of **fantasy adventure novels** — completed over 40 titles across diverse series and authors.  
+- 🧠 Enjoy diving into **graph mining**, **AI**, and **procedural generation** projects in my free time.
 
 ---
 
