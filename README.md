@@ -1,6 +1,6 @@
 <!-- Banner Image (Minimal Tech/Data Theme) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531497865144-0464ef8fb9a5?auto=format&fit=crop&w=1200&q=80" alt="Data Banner" width="70%" />
+  <img src="https://images.unsplash.com/photo-1607706189992-eae578626c4e?auto=format&fit=crop&w=1200&q=80" alt="Tech Abstract Banner" width="70%" />
 </p>
 
 
