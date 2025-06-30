@@ -41,6 +41,9 @@ Master's in Data Science | AI/ML | Software Engineer
 - [👾 Pacman using RL](https://github.com/Kirthikraja/Pacman-using-RL)  
   <sub>🍒 Implementation of agents navigating a grid world, emphasizing planning and value-based decision making.</sub>
 
+- [🔍 Recommender Sys Kaggle Challenge](https://github.com/Kirthikraja/Recommender-Sys-Kaggle-Challenge)  
+  <sub>📚 Solution for a large-scale recommender systems challenge using collaborative filtering and hybrid techniques.</sub>
+
 👉 *More repositories below!*
 
 ---
