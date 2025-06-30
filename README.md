@@ -93,7 +93,7 @@ Master's in Data Science | AI/ML | Software Engineer
   </a>
 </p>
 
-> 📎 [Download Resume (PDF)](https://github.com/Kirthikraja/Kirthikraja/blob/main/Leiden_Resume.pdf)
+> 📎 [Download Resume (PDF)](https://github.com/Kirthikraja/Kirthikraja/blob/main/Resume_NL.pdf)
 
 ---
 
