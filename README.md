@@ -8,7 +8,7 @@
 ...
 
 ## 🔥 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthik-raja&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirthikraja&show_icons=true&theme=tokyonight)
 
 ## 🚀 Featured Projects
 - [🏗 Minecraft Terrain-Aware House Generator](https://github.com/Kirthikraja/Minecraft-Terrain-adaptive-house-generator)
