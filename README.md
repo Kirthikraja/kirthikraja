@@ -1,7 +1,8 @@
-<!-- Banner Image (Professional Portfolio Theme) -->
+<!-- Banner Image (Plain Abstract Tech Theme) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80" alt="Professional Banner" width="70%" />
+  <img src="https://images.unsplash.com/photo-1611262588024-d12430b98920?auto=format&fit=crop&w=1200&q=80" alt="Plain Tech Banner" width="70%" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Kirthik Raja! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"/></h1>
