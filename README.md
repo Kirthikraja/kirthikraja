@@ -44,7 +44,7 @@ Master's in Data Science | AI/ML | Software Engineer
 - [🔍 Recommender Sys Kaggle Challenge](https://github.com/Kirthikraja/Recommender-Sys-Kaggle-Challenge)  
   <sub>📚 Solution for a large-scale recommender systems challenge using collaborative filtering and hybrid techniques.</sub>
 
-👉 *More repositories below!*
+
 
 ---
 
